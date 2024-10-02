@@ -3,3 +3,7 @@ This is an example script that showcases how anybody can run an LLM locally and 
 
 The recording of this tutorial can be found here:
 https://youtu.be/F9UdmVq2qkM
+
+Llamafile
+https://github.com/Mozilla-Ocho/llamafile
+
